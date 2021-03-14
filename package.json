@@ -1,0 +1,9 @@
+{
+  "name": "wireless-headphones",
+  "version": "0.1.0",
+  "description": "Use your phone as wireless headphones for your computer.",
+  "main": "index.js",
+  "repository": "https://github.com/purplnay/wireless-headphones.git",
+  "author": "Nay <nay@purpltag.com>",
+  "license": "MIT"
+}
